@@ -17,6 +17,7 @@ export default {
     "useTabs": true,
     "trailingComma": "all",
     "vueIndentScriptAndStyle": false,
+    "allowDefaultProject": true,
     "embeddedLanguageFormatting": "auto",
     "importOrderSeparation": true,
     "importOrderSortSpecifiers": true,
