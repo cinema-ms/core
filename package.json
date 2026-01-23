@@ -1,6 +1,6 @@
 {
   "name": "@cinema-ms/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Core utilites and shared setup",
   "type": "commonjs",
   "publishConfig": {
