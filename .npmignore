@@ -1,0 +1,12 @@
+.github/
+.DS_Store
+*.log
+.env
+.vscode/    
+bun.lock
+bun.lockb
+pnpn-lock.yaml
+yarn.lock
+package-lock.json
+idea/
+Thumbs.db
