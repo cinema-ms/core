@@ -2,7 +2,7 @@
   "name": "@cinema-ms/core",
   "version": "1.0.8",
   "description": "Core utilites and shared setup",
-  "type": "commonjs",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
@@ -19,6 +19,6 @@
     "@trivago/prettier-plugin-sort-imports": "^6.0.2"
   },
   "exports": {
-    "prettier": "./src/prettier.config.mjs"
+    "./prettier": "./src/prettier.config.mjs"
   }
 }
